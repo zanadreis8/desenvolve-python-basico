@@ -1,0 +1,6 @@
+Dissertativa
+1. Leia e armazene o número n que se desja multiplicar por 9 #Entrada
+2. Subtrair n-1 e armazenar como o primiro dígito #Processamento
+3. Subtrair 10-n e armazenar como o segundo dígito n2 #Processamento
+4. Realize a expressão @n1 x 10) + n2 e armazene como resultado final r #Processamento
+5. Aperesente r e encerre o programa
