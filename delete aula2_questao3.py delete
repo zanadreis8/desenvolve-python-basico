@@ -1,5 +1,0 @@
-idade = int(input("Digite sua idade:"))
-jogos = (input("Já jogou pelo menos 3 jogos de tabuleiro?"))
-print(type(jogos))
-venceu = int(input("Quantos jogos já venceu? "))
-print(idade > 15 and idade < 19 and jogos == "True" and venceu > 0)
